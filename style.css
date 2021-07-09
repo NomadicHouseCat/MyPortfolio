@@ -112,14 +112,14 @@ p {
 
 .Qualifications img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;   
+    margin: 20px auto;
+    max-width: 180px;
 }
 
 .Contact-Me img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    margin: 20px auto;
+    height: 180px;
 }
 
 .About-Me {
